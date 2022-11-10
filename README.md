@@ -1,7 +1,7 @@
 # Viking
 Newgen discord bot stealer.
 
-### [👺 Discord Server](https://discord.gg/FxJYQsZy4G)
+### Sold Out.
 
 ## Special thanks to @fantasywastaken & @Not-Groax.
 
@@ -49,3 +49,5 @@ Newgen discord bot stealer.
 
 # Info
 - This project is only for catching security vulnerabilities. We are not responsible for any malicious use.
+ 
+ Virus total - https://cdn.discordapp.com/attachments/913867024671834163/1040292540026454036/image.png
