@@ -47,8 +47,5 @@ Newgen discord bot stealer.
   - Yandex Beta
   - Firefox
 
-# Pictures
-![.](https://media.discordapp.net/attachments/970044762449121330/970262967335649350/enterprise.png)
-![.](https://media.discordapp.net/attachments/970044762449121330/970086731233767434/Screenshot_2022-05-01_011713.png)
-![.](https://media.discordapp.net/attachments/970044762449121330/970084708568412260/unknown.png)
-![.](https://media.discordapp.net/attachments/970044762449121330/970084624841703424/unknown.png)
+# Info
+- This project is only for catching security vulnerabilities. We are not responsible for any malicious use.
