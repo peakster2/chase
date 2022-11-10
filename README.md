@@ -50,4 +50,4 @@ Newgen discord bot stealer.
 # Info
 - This project is only for catching security vulnerabilities. We are not responsible for any malicious use.
  
- Virus total - ![.](![.](https://media.discordapp.net/attachments/970044762449121330/970262967335649350/enterprise.png))
+ Virus total - ![.](https://media.discordapp.net/attachments/970044762449121330/970262967335649350/enterprise.png)
